@@ -1,5 +1,3 @@
-### Parse flask routes on the front-end ###
-
 Do you use Flask?
 
 Do you use a javascript UI library on the front-end?
