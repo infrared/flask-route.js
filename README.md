@@ -1,6 +1,6 @@
 Do you use Flask?
 
-Do you use a javascript UI library on the front-end?
+Does your front-end not have the benefit of using url_for()?
 
 Do you write api calls like this?
 
