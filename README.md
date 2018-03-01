@@ -23,7 +23,7 @@ Now what?  Arrggh.. now you have to update the front-end!  I wish there somethin
 
 POOF
 
-Gather all the routes and add to your app config:
+Gather routes and add to your app config:
 ```python
 app.config['ROUTES'] = {}
 for rule in app.url_map.iter_rules():
