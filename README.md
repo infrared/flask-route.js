@@ -38,6 +38,6 @@ for rule in app.url_map.iter_rules():
 ```javascript
 var flask_routes = new FlaskRoute({{config.ROUTES|safe}});
 $.ajax({
-    url: flask_route.get_route('user.messages', {'user_id': user_id, 'message_id': message_id}),
+    url: flask_routes.get_route('user.messages', {'user_id': user_id, 'message_id': message_id}),
     ...
 ```
